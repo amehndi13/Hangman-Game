@@ -1,0 +1,10 @@
+Surya Ram: sram1
+Anuj Mehndiratta : amehndi1
+
+
+Brief Assignment Overview:
+This is a Hangman game written in Java.
+
+We wrote this program using a set of ArrayLists. One ArrayList
+contains the entire dictionary that is being entered and another
+temporary one is being used and updated during each game.
